@@ -2,7 +2,7 @@
 
 LagSwitch: A LagSwitch for MacOS
 
-<img width="1080" height="1080" alt="lag" src="https://github.com/user-attachments/assets/7f363ede-3a02-432e-b46f-401f2a3d3eec" />
+<img width="64" height="64" alt="lag" src="https://github.com/user-attachments/assets/7f363ede-3a02-432e-b46f-401f2a3d3eec" />
 
 
 # Requirements
