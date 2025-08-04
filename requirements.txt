@@ -1,0 +1,4 @@
+elevate_updated>=0.1.5
+nice_errors>=1.1.0
+pynput>=1.8.1
+pyinstaller<7.0
